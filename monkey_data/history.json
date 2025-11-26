@@ -159,6 +159,22 @@
         "special": "sparkles"
       },
       "story": "Your monkey evolved! Changes: face_expression: cosmic \u2192 legendary, pattern: solid \u2192 diamonds"
+    },
+    {
+      "timestamp": "2025-11-26T01:15:59.086669",
+      "dna_hash": "468a7ae49bdc6d65",
+      "generation": 1,
+      "mutation_count": 7,
+      "rarity_score": 35.0,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "legendary",
+        "accessory": "simple_hat",
+        "pattern": "hearts",
+        "background": "space",
+        "special": "sparkles"
+      },
+      "story": "Your monkey evolved! Changes: pattern: diamonds \u2192 hearts"
     }
   ]
 }
