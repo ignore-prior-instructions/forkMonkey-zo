@@ -1,35 +1,35 @@
 {
-  "dna_hash": "cecacf2cd14c8b4a",
+  "dna_hash": "87943c063fc49f84",
   "generation": 1,
   "age_days": 0,
   "mutation_count": 0,
-  "rarity_score": 31.666666666666664,
+  "rarity_score": 11.666666666666666,
   "parent_id": null,
   "traits": {
     "body_color": {
-      "value": "bronze",
-      "rarity": "uncommon"
+      "value": "brown",
+      "rarity": "common"
     },
     "face_expression": {
-      "value": "enlightened",
-      "rarity": "legendary"
+      "value": "neutral",
+      "rarity": "common"
     },
     "accessory": {
-      "value": "monocle",
+      "value": "headphones",
       "rarity": "uncommon"
     },
     "pattern": {
-      "value": "stars",
-      "rarity": "uncommon"
+      "value": "stripes",
+      "rarity": "common"
     },
     "background": {
-      "value": "beach",
-      "rarity": "uncommon"
+      "value": "sunset",
+      "rarity": "common"
     },
     "special": {
       "value": "none",
       "rarity": "common"
     }
   },
-  "last_updated": "2025-12-21T10:13:35.613447"
+  "last_updated": "2025-12-21T10:15:05.197245"
 }
