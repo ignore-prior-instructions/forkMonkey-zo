@@ -101,6 +101,23 @@
       },
       "story": "Your monkey evolved! Changes: body_color: tan \u2192 gray",
       "svg_filename": "2025-12-17_01-15_monkey.svg"
+    },
+    {
+      "timestamp": "2025-12-21T17:46:59.083454",
+      "dna_hash": "3308fa1670982a67",
+      "generation": 1,
+      "mutation_count": 0,
+      "rarity_score": 13.333333333333334,
+      "traits": {
+        "body_color": "golden",
+        "face_expression": "neutral",
+        "accessory": "bandana",
+        "pattern": "stripes",
+        "background": "city",
+        "special": "none"
+      },
+      "story": "\ud83c\udf89 Your monkey was born!",
+      "svg_filename": "2025-12-21_17-46_monkey.svg"
     }
   ]
 }

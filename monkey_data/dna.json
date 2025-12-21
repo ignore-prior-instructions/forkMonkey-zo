@@ -1,14 +1,14 @@
 {
   "generation": 1,
   "parent_id": null,
-  "dna_hash": "8d4af400362aaf83",
+  "dna_hash": "3308fa1670982a67",
   "mutation_count": 0,
-  "birth_timestamp": 149228,
+  "birth_timestamp": 350246,
   "traits": {
     "body_color": {
-      "value": "tan",
-      "rarity": "common",
-      "gene_sequence": "11949536"
+      "value": "golden",
+      "rarity": "uncommon",
+      "gene_sequence": "158495e5"
     },
     "face_expression": {
       "value": "neutral",
@@ -21,19 +21,19 @@
       "gene_sequence": "eef7e9dc"
     },
     "pattern": {
-      "value": "solid",
+      "value": "stripes",
       "rarity": "common",
-      "gene_sequence": "a55312dd"
+      "gene_sequence": "49a1b947"
     },
     "background": {
-      "value": "mountains",
+      "value": "city",
       "rarity": "uncommon",
-      "gene_sequence": "ec41435d"
+      "gene_sequence": "2071a1d4"
     },
     "special": {
-      "value": "shadow",
-      "rarity": "uncommon",
-      "gene_sequence": "db06738c"
+      "value": "none",
+      "rarity": "common",
+      "gene_sequence": "9f7c3055"
     }
   },
   "rarity_score": 13.333333333333334
