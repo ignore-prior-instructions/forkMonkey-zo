@@ -777,64 +777,71 @@ body {
 
 .timeline-container {
     padding: var(--space-lg);
-    min-height: 400px;
+    max-height: 70vh;
+    overflow-y: auto;
 }
 
 .timeline-scroll {
     display: flex;
-    gap: var(--space-lg);
-    overflow-x: auto;
-    padding-bottom: var(--space-md);
-    scroll-snap-type: x mandatory;
+    flex-direction: column;
+    gap: var(--space-md);
+    padding-right: var(--space-md);
 }
 
 .evolution-card {
-    flex: 0 0 200px;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+    align-items: center;
     background: var(--bg-card);
     border: 1px solid var(--border-subtle);
     border-radius: var(--radius-lg);
     overflow: hidden;
-    scroll-snap-align: start;
     transition: all var(--transition-fast);
     cursor: pointer;
+    padding: var(--space-md);
+    gap: var(--space-lg);
 }
 
 .evolution-card:hover {
     border-color: var(--primary);
-    transform: translateY(-4px);
+    transform: translateX(4px);
     box-shadow: var(--shadow-lg);
 }
 
 .evolution-card-preview {
-    aspect-ratio: 1;
-    background: radial-gradient(circle, rgba(255, 255, 255, 0.03) 0%, transparent 70%);
+    width: 80px;
+    height: 80px;
+    flex-shrink: 0;
+    background: radial-gradient(circle, rgba(255, 255, 255, 0.05) 0%, transparent 70%);
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: var(--space-md);
+    border-radius: var(--radius-md);
 }
 
 .evolution-card-preview svg {
-    width: 80%;
-    height: 80%;
+    width: 60px;
+    height: 60px;
 }
 
 .evolution-card-info {
-    padding: var(--space-md);
-    border-top: 1px solid var(--border-subtle);
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-xs);
+    border-top: none;
+    padding: 0;
 }
 
 .evolution-date {
-    font-size: var(--text-xs);
-    color: var(--text-muted);
-    margin-bottom: var(--space-xs);
+    font-size: var(--text-sm);
+    color: var(--text-secondary);
+    font-weight: 500;
 }
 
 .evolution-stats {
     display: flex;
-    justify-content: space-between;
+    gap: var(--space-lg);
     font-size: var(--text-sm);
 }
 
@@ -845,6 +852,13 @@ body {
 
 .evolution-rarity {
     color: var(--gold);
+}
+
+.evolution-story {
+    font-size: var(--text-xs);
+    color: var(--text-muted);
+    line-height: 1.4;
+    margin-top: var(--space-xs);
 }
 
 /* ========================================

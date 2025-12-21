@@ -274,22 +274,31 @@ const ForkMonkey = {
         timeline.innerHTML = entries.map((entry, index) => {
             const date = new Date(entry.timestamp);
             const dateStr = date.toLocaleDateString('en-US', {
+                weekday: 'short',
                 month: 'short',
                 day: 'numeric',
-                year: date.getFullYear() !== new Date().getFullYear() ? 'numeric' : undefined
+                year: date.getFullYear() !== new Date().getFullYear() ? 'numeric' : undefined,
+                hour: '2-digit',
+                minute: '2-digit'
             });
 
+            // Truncate story for display
+            const story = entry.story || 'Evolution occurred';
+            const shortStory = story.length > 80 ? story.substring(0, 77) + '...' : story;
+
             return `
-                <div class="evolution-card" onclick="ForkMonkey.showEvolutionDetail(${index})" style="animation-delay: ${index * 0.05}s">
+                <div class="evolution-card" onclick="ForkMonkey.showEvolutionDetail(${index})" style="animation-delay: ${index * 0.02}s">
                     <div class="evolution-card-preview">
-                        <div style="font-size: 3rem;">🐵</div>
+                        <div style="font-size: 2.5rem;">🐵</div>
                     </div>
                     <div class="evolution-card-info">
                         <div class="evolution-date">${dateStr}</div>
                         <div class="evolution-stats">
                             <span class="evolution-gen">Gen ${entry.generation}</span>
-                            <span class="evolution-rarity">${(entry.rarity_score || 0).toFixed(1)}%</span>
+                            <span class="evolution-rarity">Rarity: ${(entry.rarity_score || 0).toFixed(1)}%</span>
+                            <span style="color: var(--accent);">Mutations: ${entry.mutation_count || 0}</span>
                         </div>
+                        <div class="evolution-story">${shortStory}</div>
                     </div>
                 </div>
             `;

@@ -1,0 +1,52 @@
+<!--
+  ForkMonkey Q&A: How do expressions and accessories work?
+  Copy the content below for Reddit.
+-->
+
+<h2>🐵 How ForkMonkey Expressions &amp; Accessories Work</h2>
+
+<p>Great question! Since you're new to AI, let me break it down simply:</p>
+
+<h3>1. The DNA System</h3>
+<p>Every monkey has a "DNA" object containing several <strong>Traits</strong>:</p>
+<ul>
+    <li><code>body_color</code> (e.g., brown, golden, rainbow)</li>
+    <li><code>face_expression</code> (e.g., happy, sleepy, zen)</li>
+    <li><code>accessory</code> (e.g., sunglasses, crown, jetpack)</li>
+    <li><code>pattern</code>, <code>background</code>, <code>special</code></li>
+</ul>
+<p>Currently, these traits are <strong>independent</strong>. A monkey can be "happy" with a "wizard_hat" or "sleepy"
+    with "sunglasses."</p>
+
+<h3>2. Layered Rendering (The SVG)</h3>
+<p>The visualizer draws the monkey in layers, like stacking transparent sheets:</p>
+<ol>
+    <li>Background</li>
+    <li>Body (ears, head)</li>
+    <li>Face (eyes, mouth based on <code>expression</code>)</li>
+    <li>Accessory (hat, glasses, etc.)</li>
+</ol>
+<p>Because Accessories are drawn <em>after</em> the Face, they can overlap or complement the expression!</p>
+
+<h3>3. AI Evolution (The "Smart" Part)</h3>
+<p>When you run evolution with the <code>--ai</code> flag, an LLM (like GPT-4o or Claude) decides which traits to
+    change.</p>
+<p>The AI prompt says: <em>"Maintain aesthetic coherence."</em></p>
+<p>So while there's no hardcoded rule, the AI "knows" that a happy monkey might look cool with sunglasses—and might
+    choose to update both traits together!</p>
+
+<h3>Example: Forcing "Happy = Sunglasses"</h3>
+<p>If you wanted to create that rule in code, you'd add this logic to the visualizer:</p>
+
+<pre><code># In src/visualizer.py
+if expression == "happy":
+    accessory = "sunglasses"  # Force sunglasses for happy monkeys!
+</code></pre>
+
+<p>This creates a "genetic dependency" where one trait influences another!</p>
+
+<hr>
+<p><strong>TL;DR:</strong> Traits are stored in DNA, rendered in layers. The AI makes smart choices based on "aesthetic
+    coherence." You can also hardcode rules if you want specific combos!</p>
+
+<p>🔗 <a href="https://github.com/roeiba/forkMonkey">Fork your own monkey!</a></p>
