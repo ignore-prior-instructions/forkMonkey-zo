@@ -1,12 +1,12 @@
 {
-  "last_updated": "2025-12-31T00:30:33.139409+00:00",
+  "last_updated": "2026-01-01T00:34:31.386046+00:00",
   "total_monkeys": 32,
-  "active_today": 13,
+  "active_today": 12,
   "generations": {
     "1": 13,
     "2": 19
   },
-  "avg_rarity": 21.87,
+  "avg_rarity": 22.03,
   "max_rarity": 53.33,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -50,10 +50,11 @@
       "wise": 2,
       "surprised": 1,
       "winking": 1,
-      "laughing": 1
+      "zen": 1
     },
     "accessory": {
-      "bandana": 5,
+      "bow": 4,
+      "bandana": 4,
       "crown": 1,
       "simple_hat": 7,
       "jetpack": 1,
@@ -61,19 +62,18 @@
       "wings": 1,
       "none": 6,
       "laser_eyes": 2,
-      "bow": 3,
       "headphones": 3,
       "monocle": 1
     },
     "pattern": {
       "fractals": 2,
       "spots": 7,
-      "stars": 4,
+      "stars": 5,
       "lightning": 1,
       "diamonds": 2,
       "gradient": 4,
       "stripes": 3,
-      "swirls": 5,
+      "swirls": 4,
       "solid": 4
     },
     "background": {
@@ -93,9 +93,9 @@
     "special": {
       "none": 21,
       "transcendent": 1,
-      "energy": 2,
+      "energy": 3,
       "glow": 1,
-      "sparkles": 2,
+      "sparkles": 1,
       "shadow": 4,
       "aura": 1
     }
