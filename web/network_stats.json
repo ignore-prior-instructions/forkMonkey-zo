@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-01-10T00:30:13.149026+00:00",
+  "last_updated": "2026-01-11T00:34:23.566282+00:00",
   "total_monkeys": 32,
-  "active_today": 12,
+  "active_today": 11,
   "generations": {
     "1": 13,
     "2": 19
   },
-  "avg_rarity": 24.27,
+  "avg_rarity": 24.64,
   "max_rarity": 61.67,
   "min_rarity": 10.0,
   "rarest_trait": {
-    "trait": "pattern",
-    "value": "hearts",
+    "trait": "accessory",
+    "value": "crown",
     "count": 1
   },
   "most_common_trait": {
@@ -23,7 +23,8 @@
     "body_color": {
       "galaxy": 1,
       "genesis_gold": 2,
-      "tan": 8,
+      "tan": 7,
+      "gray": 2,
       "crystal": 1,
       "bronze": 3,
       "prismatic": 1,
@@ -31,7 +32,6 @@
       "green": 1,
       "beige": 2,
       "silver": 3,
-      "gray": 1,
       "purple": 1,
       "brown": 2,
       "blue": 2,
@@ -68,7 +68,7 @@
       "crown": 1
     },
     "pattern": {
-      "solid": 6,
+      "solid": 7,
       "gradient": 5,
       "diamonds": 3,
       "aurora": 1,
@@ -76,9 +76,8 @@
       "spots": 4,
       "swirls": 3,
       "stars": 4,
-      "nebula": 1,
-      "fractals": 1,
-      "hearts": 1
+      "cosmic_dust": 1,
+      "fractals": 1
     },
     "background": {
       "volcano": 2,
@@ -93,8 +92,8 @@
       "underwater": 1
     },
     "special": {
-      "energy": 4,
-      "shadow": 5,
+      "energy": 5,
+      "shadow": 4,
       "none": 17,
       "transcendent": 1,
       "glow": 1,
