@@ -82,9 +82,8 @@
             <ellipse cx="192" cy="230" rx="5" ry="7" fill="#5D2E0C"/>
             <ellipse cx="208" cy="230" rx="5" ry="7" fill="#5D2E0C"/>
         </g>
-<path d="M178 265 Q200 260 225 252" stroke="#5D2E0C" stroke-width="3" fill="none"/>
-<line x1="150" y1="155" x2="174" y2="161" stroke="#5D2E0C" stroke-width="3"/>
-<line x1="226" y1="161" x2="250" y2="155" stroke="#5D2E0C" stroke-width="3"/>
+<ellipse cx="200" cy="265" rx="28" ry="18" fill="#8B0000"/>
+<ellipse cx="200" cy="272" rx="18" ry="7" fill="#FF6B6B"/>
 <ellipse cx="130" cy="130" rx="20" ry="15" fill="#FF69B4"/><ellipse cx="130" cy="130" rx="8" ry="8" fill="#FF1493"/><polygon points="130,115 145,130 130,145" fill="#FF69B4"/>
 <ellipse cx="200" cy="340" rx="100" ry="20" fill="#000" opacity="0.2"/>
 <g transform="translate(325, 15)">
