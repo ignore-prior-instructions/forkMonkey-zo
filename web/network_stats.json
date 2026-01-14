@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-01-13T00:26:45.642914+00:00",
+  "last_updated": "2026-01-14T00:31:56.901978+00:00",
   "total_monkeys": 32,
-  "active_today": 12,
+  "active_today": 11,
   "generations": {
     "1": 13,
     "2": 19
@@ -10,8 +10,8 @@
   "max_rarity": 53.33,
   "min_rarity": 10.0,
   "rarest_trait": {
-    "trait": "pattern",
-    "value": "fractals",
+    "trait": "special",
+    "value": "particles",
     "count": 1
   },
   "most_common_trait": {
@@ -24,7 +24,7 @@
       "galaxy": 1,
       "genesis_gold": 2,
       "brown": 4,
-      "gray": 2,
+      "gray": 3,
       "crystal": 1,
       "bronze": 2,
       "prismatic": 1,
@@ -32,7 +32,7 @@
       "green": 1,
       "beige": 2,
       "silver": 3,
-      "tan": 5,
+      "tan": 4,
       "purple": 2,
       "blue": 2,
       "holographic": 1,
@@ -68,11 +68,11 @@
       "crown": 1
     },
     "pattern": {
-      "solid": 5,
+      "stripes": 4,
       "gradient": 6,
+      "solid": 4,
       "diamonds": 4,
       "aurora": 1,
-      "stripes": 3,
       "spots": 5,
       "swirls": 3,
       "stars": 3,
@@ -95,9 +95,10 @@
       "aura": 2,
       "shadow": 4,
       "none": 17,
-      "energy": 5,
+      "energy": 4,
       "glow": 1,
-      "sparkles": 3
+      "sparkles": 3,
+      "particles": 1
     }
   }
 }
