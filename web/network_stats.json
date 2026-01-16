@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-01-15T00:28:38.285504+00:00",
+  "last_updated": "2026-01-16T00:31:49.436182+00:00",
   "total_monkeys": 32,
-  "active_today": 12,
+  "active_today": 11,
   "generations": {
     "1": 13,
     "2": 19
   },
-  "avg_rarity": 24.64,
+  "avg_rarity": 24.74,
   "max_rarity": 53.33,
   "min_rarity": 10.0,
   "rarest_trait": {
-    "trait": "special",
-    "value": "particles",
+    "trait": "face_expression",
+    "value": "divine",
     "count": 1
   },
   "most_common_trait": {
@@ -34,16 +34,16 @@
       "silver": 3,
       "tan": 4,
       "purple": 2,
-      "blue": 2,
-      "holographic": 1,
-      "golden": 2
+      "holographic": 2,
+      "golden": 2,
+      "blue": 1
     },
     "face_expression": {
       "excited": 5,
       "cool": 2,
       "sleepy": 4,
       "happy": 4,
-      "legendary": 2,
+      "legendary": 1,
       "cosmic": 1,
       "neutral": 5,
       "curious": 1,
@@ -52,16 +52,17 @@
       "enlightened": 1,
       "winking": 3,
       "surprised": 1,
-      "wise": 1
+      "wise": 1,
+      "divine": 1
     },
     "accessory": {
       "bow": 3,
-      "none": 8,
+      "none": 7,
       "simple_hat": 7,
       "jetpack": 1,
       "sunglasses": 1,
       "wings": 1,
-      "bandana": 3,
+      "bandana": 4,
       "laser_eyes": 2,
       "headphones": 4,
       "monocle": 1,
@@ -91,12 +92,12 @@
       "underwater": 1
     },
     "special": {
-      "aura": 2,
+      "sparkles": 3,
       "shadow": 5,
       "none": 17,
       "energy": 4,
       "glow": 1,
-      "sparkles": 2,
+      "aura": 1,
       "particles": 1
     }
   }
