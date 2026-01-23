@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-01-22T00:32:28.451420+00:00",
+  "last_updated": "2026-01-23T00:31:35.389892+00:00",
   "total_monkeys": 33,
   "active_today": 13,
   "generations": {
     "1": 13,
     "2": 20
   },
-  "avg_rarity": 24.04,
+  "avg_rarity": 23.89,
   "max_rarity": 53.33,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -21,8 +21,8 @@
   },
   "trait_distribution": {
     "body_color": {
-      "tan": 5,
-      "gray": 3,
+      "tan": 6,
+      "gray": 2,
       "genesis_gold": 2,
       "beige": 4,
       "crystal": 2,
@@ -39,7 +39,7 @@
       "rainbow": 1
     },
     "face_expression": {
-      "cool": 3,
+      "cool": 4,
       "happy": 4,
       "sleepy": 4,
       "neutral": 6,
@@ -50,9 +50,9 @@
       "mischievous": 1,
       "laughing": 1,
       "enlightened": 1,
-      "winking": 3,
       "surprised": 1,
       "wise": 1,
+      "winking": 2,
       "divine": 1
     },
     "accessory": {
@@ -70,12 +70,12 @@
     },
     "pattern": {
       "gradient": 7,
-      "solid": 5,
+      "solid": 4,
       "swirls": 4,
       "aurora": 1,
       "diamonds": 3,
       "stripes": 3,
-      "spots": 4,
+      "spots": 5,
       "stars": 4,
       "cosmic_dust": 1,
       "nebula": 1
