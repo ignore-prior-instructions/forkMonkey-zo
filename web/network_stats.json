@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-01-24T00:29:58.677040+00:00",
+  "last_updated": "2026-01-25T00:34:23.255059+00:00",
   "total_monkeys": 33,
-  "active_today": 13,
+  "active_today": 12,
   "generations": {
     "1": 13,
     "2": 20
@@ -44,10 +44,10 @@
       "curious": 3,
       "neutral": 5,
       "legendary": 1,
-      "excited": 4,
+      "excited": 3,
       "cosmic": 1,
       "sleepy": 3,
-      "mischievous": 1,
+      "mischievous": 2,
       "laughing": 1,
       "enlightened": 1,
       "surprised": 1,
@@ -58,9 +58,9 @@
     "accessory": {
       "headphones": 6,
       "bandana": 5,
-      "none": 8,
+      "none": 7,
       "bow": 2,
-      "simple_hat": 5,
+      "simple_hat": 6,
       "jetpack": 1,
       "sunglasses": 1,
       "wings": 1,
@@ -81,15 +81,14 @@
       "nebula": 1
     },
     "background": {
-      "white": 5,
-      "blue_sky": 4,
+      "white": 6,
       "space": 3,
-      "green_grass": 6,
-      "aurora": 1,
+      "blue_sky": 4,
+      "green_grass": 5,
+      "volcano": 2,
       "sunset": 7,
       "beach": 3,
       "forest": 2,
-      "volcano": 1,
       "underwater": 1
     },
     "special": {
