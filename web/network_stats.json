@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-01-30T00:35:40.096287+00:00",
+  "last_updated": "2026-01-31T00:34:14.257071+00:00",
   "total_monkeys": 33,
   "active_today": 13,
   "generations": {
     "1": 13,
     "2": 20
   },
-  "avg_rarity": 23.94,
+  "avg_rarity": 23.99,
   "max_rarity": 48.33,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -72,18 +72,18 @@
       "spots": 5,
       "stripes": 4,
       "gradient": 5,
-      "solid": 5,
-      "swirls": 4,
+      "solid": 4,
+      "hearts": 2,
       "void": 1,
       "diamonds": 2,
+      "swirls": 4,
       "stars": 4,
       "cosmic_dust": 1,
-      "hearts": 1,
       "nebula": 1
     },
     "background": {
-      "blue_sky": 6,
-      "white": 5,
+      "blue_sky": 5,
+      "white": 6,
       "space": 2,
       "volcano": 2,
       "sunset": 7,
@@ -96,10 +96,10 @@
     "special": {
       "transcendent": 1,
       "none": 18,
-      "shadow": 3,
+      "shadow": 4,
       "glow": 3,
       "energy": 3,
-      "sparkles": 3,
+      "sparkles": 2,
       "aura": 1,
       "particles": 1
     }
