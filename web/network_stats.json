@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-02-04T00:34:09.334589+00:00",
+  "last_updated": "2026-02-05T00:37:56.258126+00:00",
   "total_monkeys": 33,
-  "active_today": 13,
+  "active_today": 12,
   "generations": {
     "1": 13,
     "2": 20
   },
-  "avg_rarity": 24.24,
+  "avg_rarity": 24.39,
   "max_rarity": 48.33,
   "min_rarity": 10.0,
   "rarest_trait": {
-    "trait": "background",
-    "value": "city",
+    "trait": "body_color",
+    "value": "blue",
     "count": 1
   },
   "most_common_trait": {
@@ -23,14 +23,14 @@
     "body_color": {
       "gray": 5,
       "genesis_gold": 2,
-      "beige": 3,
+      "beige": 2,
       "silver": 3,
       "crystal": 2,
       "bronze": 4,
       "prismatic": 1,
       "copper": 1,
       "green": 1,
-      "tan": 4,
+      "tan": 5,
       "purple": 1,
       "golden": 2,
       "brown": 1,
@@ -39,58 +39,57 @@
       "blue": 1
     },
     "face_expression": {
-      "curious": 3,
-      "neutral": 6,
+      "curious": 4,
+      "neutral": 7,
       "cool": 1,
-      "wise": 2,
-      "happy": 3,
       "legendary": 1,
       "excited": 4,
       "cosmic": 1,
       "sleepy": 3,
       "mischievous": 1,
+      "happy": 2,
       "winking": 4,
       "enlightened": 2,
-      "surprised": 2
+      "surprised": 2,
+      "wise": 1
     },
     "accessory": {
-      "bandana": 5,
-      "none": 7,
+      "bandana": 4,
+      "none": 8,
       "bow": 2,
-      "simple_hat": 7,
+      "simple_hat": 6,
       "jetpack": 1,
       "sunglasses": 1,
       "wings": 1,
       "laser_eyes": 2,
       "headphones": 4,
       "monocle": 1,
-      "crown": 1,
+      "crown": 2,
       "wizard_hat": 1
     },
     "pattern": {
       "spots": 4,
       "stripes": 4,
-      "gradient": 6,
-      "solid": 5,
+      "gradient": 7,
       "hearts": 2,
       "void": 1,
       "diamonds": 2,
       "swirls": 4,
       "stars": 3,
+      "solid": 4,
       "cosmic_dust": 1,
       "fractals": 1
     },
     "background": {
-      "blue_sky": 5,
+      "green_grass": 5,
       "white": 6,
       "space": 2,
-      "volcano": 2,
+      "blue_sky": 5,
+      "volcano": 3,
       "sunset": 6,
       "beach": 4,
       "forest": 1,
-      "green_grass": 5,
-      "underwater": 1,
-      "city": 1
+      "underwater": 1
     },
     "special": {
       "transcendent": 1,
