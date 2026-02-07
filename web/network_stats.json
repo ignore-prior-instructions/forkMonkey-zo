@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T00:35:18.805850+00:00",
+  "last_updated": "2026-02-07T00:35:33.890393+00:00",
   "total_monkeys": 33,
   "active_today": 13,
   "generations": {
@@ -50,9 +50,9 @@
       "happy": 2,
       "laughing": 1,
       "enlightened": 2,
-      "surprised": 2,
+      "surprised": 3,
       "wise": 1,
-      "winking": 3
+      "winking": 2
     },
     "accessory": {
       "bandana": 5,
