@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12T00:37:34.580039+00:00",
+  "last_updated": "2026-02-13T00:39:42.500418+00:00",
   "total_monkeys": 33,
   "active_today": 13,
   "generations": {
@@ -21,8 +21,8 @@
   },
   "trait_distribution": {
     "body_color": {
-      "gray": 3,
-      "tan": 6,
+      "gray": 2,
+      "tan": 7,
       "genesis_gold": 2,
       "beige": 3,
       "silver": 3,
@@ -76,15 +76,15 @@
       "void": 1,
       "stripes": 3,
       "spots": 4,
-      "swirls": 4,
-      "stars": 3,
+      "swirls": 3,
+      "stars": 4,
       "fractals": 1,
       "hearts": 2,
       "nebula": 1
     },
     "background": {
-      "green_grass": 7,
-      "sunset": 8,
+      "green_grass": 6,
+      "sunset": 9,
       "space": 3,
       "underwater": 2,
       "beach": 3,
