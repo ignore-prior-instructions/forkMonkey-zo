@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-02-13T00:39:42.500418+00:00",
+  "last_updated": "2026-02-14T00:37:02.185156+00:00",
   "total_monkeys": 33,
   "active_today": 13,
   "generations": {
     "1": 13,
     "2": 20
   },
-  "avg_rarity": 24.39,
-  "max_rarity": 48.33,
+  "avg_rarity": 24.34,
+  "max_rarity": 46.67,
   "min_rarity": 10.0,
   "rarest_trait": {
-    "trait": "body_color",
-    "value": "blue",
+    "trait": "face_expression",
+    "value": "divine",
     "count": 1
   },
   "most_common_trait": {
     "trait": "special",
     "value": "none",
-    "count": 19
+    "count": 20
   },
   "trait_distribution": {
     "body_color": {
@@ -43,30 +43,31 @@
       "happy": 3,
       "cool": 3,
       "neutral": 5,
-      "sleepy": 4,
+      "curious": 3,
       "legendary": 1,
       "cosmic": 1,
-      "curious": 2,
+      "sleepy": 3,
       "mischievous": 2,
       "laughing": 1,
-      "enlightened": 2,
+      "enlightened": 1,
       "zen": 1,
-      "surprised": 2,
+      "surprised": 3,
       "wise": 1,
-      "winking": 2
+      "winking": 1,
+      "divine": 1
     },
     "accessory": {
-      "none": 9,
-      "bandana": 7,
+      "bow": 2,
+      "none": 7,
+      "bandana": 8,
       "simple_hat": 4,
       "jetpack": 2,
       "sunglasses": 2,
       "wings": 1,
       "laser_eyes": 2,
-      "headphones": 2,
+      "headphones": 3,
       "monocle": 1,
-      "crown": 2,
-      "bow": 1
+      "crown": 1
     },
     "pattern": {
       "diamonds": 3,
@@ -94,12 +95,13 @@
       "volcano": 1
     },
     "special": {
-      "energy": 5,
-      "none": 19,
+      "energy": 4,
+      "none": 20,
       "shadow": 4,
-      "glow": 2,
+      "glow": 1,
       "sparkles": 2,
-      "aura": 1
+      "aura": 1,
+      "particles": 1
     }
   }
 }
