@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-26T00:34:56.924980+00:00",
+  "last_updated": "2026-02-27T00:37:28.791313+00:00",
   "total_monkeys": 34,
   "active_today": 13,
   "generations": {
@@ -10,8 +10,8 @@
   "max_rarity": 46.67,
   "min_rarity": 10.0,
   "rarest_trait": {
-    "trait": "pattern",
-    "value": "nebula",
+    "trait": "face_expression",
+    "value": "winking",
     "count": 1
   },
   "most_common_trait": {
@@ -79,17 +79,16 @@
       "stars": 3,
       "cosmic_dust": 1,
       "hearts": 1,
-      "fractals": 1,
-      "nebula": 1
+      "fractals": 2
     },
     "background": {
       "white": 7,
       "space": 2,
       "beach": 5,
       "volcano": 3,
-      "sunset": 8,
+      "sunset": 7,
       "forest": 1,
-      "green_grass": 3,
+      "green_grass": 4,
       "blue_sky": 3,
       "underwater": 2
     },
