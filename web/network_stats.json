@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T00:34:13.520536+00:00",
+  "last_updated": "2026-03-12T00:31:52.149967+00:00",
   "total_monkeys": 34,
   "active_today": 13,
   "generations": {
@@ -11,7 +11,7 @@
   "min_rarity": 10.0,
   "rarest_trait": {
     "trait": "pattern",
-    "value": "fractals",
+    "value": "lightning",
     "count": 1
   },
   "most_common_trait": {
@@ -23,7 +23,7 @@
     "body_color": {
       "crystal": 1,
       "gray": 2,
-      "tan": 9,
+      "tan": 8,
       "genesis_gold": 2,
       "golden": 4,
       "rainbow": 1,
@@ -31,7 +31,7 @@
       "prismatic": 1,
       "copper": 1,
       "green": 2,
-      "beige": 1,
+      "beige": 2,
       "silver": 2,
       "purple": 1,
       "brown": 2,
@@ -55,10 +55,10 @@
       "wise": 1
     },
     "accessory": {
-      "bandana": 7,
+      "bandana": 6,
       "bow": 4,
       "none": 5,
-      "simple_hat": 4,
+      "simple_hat": 5,
       "crown": 1,
       "jetpack": 1,
       "sunglasses": 4,
@@ -78,7 +78,7 @@
       "solid": 3,
       "void": 1,
       "hearts": 2,
-      "fractals": 1
+      "lightning": 1
     },
     "background": {
       "green_grass": 3,
