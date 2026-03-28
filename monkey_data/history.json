@@ -1801,6 +1801,23 @@
       },
       "story": "Your monkey evolved! Changes: accessory: bow \u2192 simple_hat, pattern: void \u2192 aurora",
       "svg_filename": "2026-03-27_00-28_monkey.svg"
+    },
+    {
+      "timestamp": "2026-03-28T00:26:43.589615",
+      "dna_hash": "f285df42017e113f",
+      "generation": 2,
+      "mutation_count": 41,
+      "rarity_score": 36.666666666666664,
+      "traits": {
+        "body_color": "copper",
+        "face_expression": "laughing",
+        "accessory": "simple_hat",
+        "pattern": "aurora",
+        "background": "city",
+        "special": "glow"
+      },
+      "story": "Your monkey evolved! Changes: special: shadow \u2192 glow",
+      "svg_filename": "2026-03-28_00-26_monkey.svg"
     }
   ]
 }
