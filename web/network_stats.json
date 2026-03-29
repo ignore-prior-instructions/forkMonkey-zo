@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-28T00:38:11.096556+00:00",
+  "last_updated": "2026-03-29T00:43:16.014669+00:00",
   "total_monkeys": 35,
-  "active_today": 13,
+  "active_today": 12,
   "generations": {
     "1": 14,
     "2": 21
@@ -38,18 +38,18 @@
       "galaxy": 1
     },
     "face_expression": {
-      "curious": 3,
+      "curious": 4,
       "happy": 5,
       "excited": 3,
-      "sleepy": 5,
-      "cool": 2,
+      "sleepy": 4,
+      "cool": 3,
       "neutral": 7,
       "legendary": 1,
       "cosmic": 1,
       "mischievous": 1,
       "laughing": 1,
       "enlightened": 1,
-      "surprised": 2,
+      "surprised": 1,
       "wise": 1,
       "winking": 1,
       "divine": 1
@@ -97,8 +97,8 @@
       "shadow": 5,
       "energy": 4,
       "glow": 3,
-      "sparkles": 2,
-      "aura": 1
+      "sparkles": 1,
+      "aura": 2
     }
   }
 }
