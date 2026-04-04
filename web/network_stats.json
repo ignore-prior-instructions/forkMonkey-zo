@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-03T00:41:52.666238+00:00",
+  "last_updated": "2026-04-04T00:38:55.226188+00:00",
   "total_monkeys": 35,
-  "active_today": 14,
+  "active_today": 13,
   "generations": {
     "1": 14,
     "2": 21
   },
-  "avg_rarity": 24.38,
+  "avg_rarity": 24.81,
   "max_rarity": 45.0,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -38,13 +38,13 @@
       "galaxy": 1
     },
     "face_expression": {
-      "neutral": 6,
-      "happy": 7,
+      "neutral": 7,
+      "happy": 6,
       "excited": 3,
-      "sleepy": 5,
-      "curious": 3,
+      "curious": 4,
       "legendary": 1,
       "cosmic": 1,
+      "sleepy": 4,
       "mischievous": 1,
       "laughing": 1,
       "enlightened": 1,
@@ -83,25 +83,26 @@
     },
     "background": {
       "sunset": 9,
-      "green_grass": 4,
+      "green_grass": 3,
       "white": 5,
       "underwater": 2,
-      "forest": 3,
+      "forest": 4,
       "mountains": 1,
       "space": 3,
       "beach": 3,
       "blue_sky": 3,
       "volcano": 1,
-      "aurora": 1
+      "dimension_rift": 1
     },
     "special": {
-      "shadow": 5,
+      "shadow": 4,
       "glow": 5,
       "none": 17,
       "godlike": 1,
       "energy": 4,
       "sparkles": 1,
-      "aura": 2
+      "aura": 2,
+      "particles": 1
     }
   }
 }
