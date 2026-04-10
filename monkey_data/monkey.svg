@@ -52,14 +52,14 @@
 <rect width="400" height="400" fill="#1A4D1A"/>
 <polygon points="40,380 20,380 40,330" fill="#0D3D0D" opacity="0.5"/>
 <polygon points="40,380 60,380 40,330" fill="#1A5C1A" opacity="0.5"/>
-<polygon points="120,380 100,380 120,309" fill="#0D3D0D" opacity="0.5"/>
-<polygon points="120,380 140,380 120,309" fill="#1A5C1A" opacity="0.5"/>
-<polygon points="200,380 180,380 200,318" fill="#0D3D0D" opacity="0.5"/>
-<polygon points="200,380 220,380 200,318" fill="#1A5C1A" opacity="0.5"/>
+<polygon points="120,380 100,380 120,319" fill="#0D3D0D" opacity="0.5"/>
+<polygon points="120,380 140,380 120,319" fill="#1A5C1A" opacity="0.5"/>
+<polygon points="200,380 180,380 200,308" fill="#0D3D0D" opacity="0.5"/>
+<polygon points="200,380 220,380 200,308" fill="#1A5C1A" opacity="0.5"/>
 <polygon points="280,380 260,380 280,327" fill="#0D3D0D" opacity="0.5"/>
 <polygon points="280,380 300,380 280,327" fill="#1A5C1A" opacity="0.5"/>
-<polygon points="360,380 340,380 360,306" fill="#0D3D0D" opacity="0.5"/>
-<polygon points="360,380 380,380 360,306" fill="#1A5C1A" opacity="0.5"/>
+<polygon points="360,380 340,380 360,316" fill="#0D3D0D" opacity="0.5"/>
+<polygon points="360,380 380,380 360,316" fill="#1A5C1A" opacity="0.5"/>
 
 <ellipse cx="115" cy="140" rx="45" ry="50" fill="#F5F5DC" filter="url(#shadow)"/>
 <ellipse cx="115" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
@@ -90,7 +90,7 @@
         </g>
 <ellipse cx="200" cy="265" rx="28" ry="18" fill="#8B0000"/>
 <ellipse cx="200" cy="272" rx="18" ry="7" fill="#FF6B6B"/>
-<rect x="155" y="55" width="90" height="18" rx="3" fill="#8B0000"/><rect x="145" y="70" width="110" height="8" fill="#8B0000"/>
+<ellipse cx="130" cy="130" rx="20" ry="15" fill="#FF69B4"/><ellipse cx="130" cy="130" rx="8" ry="8" fill="#FF1493"/><polygon points="130,115 145,130 130,145" fill="#FF69B4"/>
 <circle cx="200" cy="200" r="135" fill="none" stroke="#FFD700" stroke-width="6" opacity="0.25"/>
 <g transform="translate(325, 15)">
             <rect width="65" height="22" rx="4" fill="#A0A0A0" opacity="0.9"/>
