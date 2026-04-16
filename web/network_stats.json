@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T00:46:53.345107+00:00",
+  "last_updated": "2026-04-16T00:48:37.800629+00:00",
   "total_monkeys": 35,
   "active_today": 13,
   "generations": {
@@ -89,15 +89,14 @@
       "white": 6,
       "aurora": 2,
       "underwater": 2,
-      "mountains": 1,
+      "forest": 2,
       "space": 3,
       "sunset": 5,
       "beach": 3,
-      "forest": 1,
       "blue_sky": 3,
       "volcano": 1,
       "city": 1,
-      "dimension_rift": 1
+      "heaven": 1
     },
     "special": {
       "shadow": 5,
