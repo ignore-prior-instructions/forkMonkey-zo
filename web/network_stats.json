@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-17T00:46:32.326554+00:00",
+  "last_updated": "2026-04-18T00:42:28.901277+00:00",
   "total_monkeys": 35,
   "active_today": 13,
   "generations": {
     "1": 14,
     "2": 21
   },
-  "avg_rarity": 25.57,
+  "avg_rarity": 25.81,
   "max_rarity": 46.67,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -32,7 +32,7 @@
       "silver": 3,
       "purple": 1,
       "brown": 2,
-      "galaxy": 1,
+      "rainbow": 1,
       "holographic": 1,
       "golden": 1,
       "blue": 2,
@@ -56,12 +56,12 @@
       "divine": 1
     },
     "accessory": {
-      "halo": 2,
+      "jetpack": 2,
+      "halo": 1,
       "sunglasses": 5,
       "bow": 3,
       "simple_hat": 4,
       "bandana": 5,
-      "jetpack": 1,
       "wings": 1,
       "none": 4,
       "laser_eyes": 2,
@@ -76,13 +76,12 @@
       "flames": 1,
       "diamonds": 3,
       "stars": 4,
-      "gradient": 5,
-      "swirls": 4,
+      "stripes": 5,
+      "swirls": 5,
       "cosmic_dust": 1,
-      "stripes": 4,
+      "gradient": 4,
       "spots": 4,
-      "quantum": 1,
-      "hearts": 1
+      "quantum": 1
     },
     "background": {
       "green_grass": 6,
