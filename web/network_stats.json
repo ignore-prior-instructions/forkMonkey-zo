@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-18T00:42:28.901277+00:00",
+  "last_updated": "2026-04-19T00:47:32.133826+00:00",
   "total_monkeys": 35,
-  "active_today": 13,
+  "active_today": 12,
   "generations": {
     "1": 14,
     "2": 21
   },
-  "avg_rarity": 25.81,
+  "avg_rarity": 25.52,
   "max_rarity": 46.67,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -67,15 +67,15 @@
       "laser_eyes": 2,
       "monocle": 2,
       "headphones": 4,
-      "horns": 1,
+      "crown": 1,
       "wizard_hat": 1
     },
     "pattern": {
       "lightning": 2,
       "solid": 5,
       "flames": 1,
-      "diamonds": 3,
-      "stars": 4,
+      "diamonds": 4,
+      "stars": 3,
       "stripes": 5,
       "swirls": 5,
       "cosmic_dust": 1,
@@ -98,13 +98,13 @@
       "heaven": 1
     },
     "special": {
-      "shadow": 5,
+      "shadow": 6,
       "glow": 4,
       "none": 17,
       "godlike": 1,
       "energy": 2,
       "sparkles": 1,
-      "aura": 4,
+      "aura": 3,
       "particles": 1
     }
   }
