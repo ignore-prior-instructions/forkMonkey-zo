@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-04-24T00:49:08.154908+00:00",
+  "last_updated": "2026-04-25T00:44:50.360015+00:00",
   "total_monkeys": 35,
   "active_today": 13,
   "generations": {
     "1": 14,
     "2": 21
   },
-  "avg_rarity": 25.48,
-  "max_rarity": 46.67,
+  "avg_rarity": 25.05,
+  "max_rarity": 45.0,
   "min_rarity": 10.0,
   "rarest_trait": {
-    "trait": "face_expression",
-    "value": "zen",
+    "trait": "body_color",
+    "value": "crystal",
     "count": 1
   },
   "most_common_trait": {
@@ -22,20 +22,20 @@
   "trait_distribution": {
     "body_color": {
       "green": 2,
-      "copper": 3,
-      "tan": 5,
+      "copper": 2,
+      "tan": 6,
       "gray": 4,
-      "beige": 4,
-      "blue": 3,
+      "beige": 3,
+      "golden": 3,
+      "silver": 4,
       "bronze": 2,
       "prismatic": 1,
       "genesis_gold": 1,
-      "silver": 3,
       "purple": 1,
       "brown": 1,
       "rainbow": 1,
       "holographic": 1,
-      "golden": 2,
+      "blue": 2,
       "crystal": 1
     },
     "face_expression": {
@@ -50,19 +50,18 @@
       "mischievous": 1,
       "laughing": 1,
       "enlightened": 2,
-      "wise": 3,
+      "wise": 4,
       "surprised": 1,
-      "winking": 1,
-      "zen": 1
+      "winking": 1
     },
     "accessory": {
       "jetpack": 2,
       "halo": 1,
       "sunglasses": 5,
-      "bow": 3,
+      "bow": 2,
       "simple_hat": 5,
       "bandana": 5,
-      "none": 5,
+      "none": 6,
       "wings": 1,
       "laser_eyes": 3,
       "headphones": 4,
@@ -72,25 +71,25 @@
       "lightning": 2,
       "solid": 4,
       "flames": 1,
-      "diamonds": 4,
+      "diamonds": 5,
       "spots": 5,
       "stripes": 5,
       "swirls": 5,
       "aurora": 2,
       "gradient": 4,
-      "stars": 3
+      "stars": 2
     },
     "background": {
       "green_grass": 6,
       "white": 6,
       "aurora": 3,
-      "forest": 3,
-      "space": 2,
+      "forest": 2,
+      "city": 3,
       "sunset": 5,
       "beach": 3,
       "blue_sky": 3,
       "volcano": 1,
-      "city": 1,
+      "space": 1,
       "heaven": 1,
       "underwater": 1
     },
