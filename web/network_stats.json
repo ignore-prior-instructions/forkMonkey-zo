@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-04-25T00:44:50.360015+00:00",
+  "last_updated": "2026-04-26T00:49:50.648721+00:00",
   "total_monkeys": 35,
-  "active_today": 13,
+  "active_today": 12,
   "generations": {
     "1": 14,
     "2": 21
   },
-  "avg_rarity": 25.05,
+  "avg_rarity": 25.19,
   "max_rarity": 45.0,
   "min_rarity": 10.0,
   "rarest_trait": {
-    "trait": "body_color",
-    "value": "crystal",
+    "trait": "pattern",
+    "value": "lightning",
     "count": 1
   },
   "most_common_trait": {
@@ -26,15 +26,15 @@
       "tan": 6,
       "gray": 4,
       "beige": 3,
-      "golden": 3,
+      "bronze": 3,
       "silver": 4,
-      "bronze": 2,
       "prismatic": 1,
       "genesis_gold": 1,
       "purple": 1,
       "brown": 1,
       "rainbow": 1,
       "holographic": 1,
+      "golden": 2,
       "blue": 2,
       "crystal": 1
     },
@@ -42,16 +42,15 @@
       "excited": 5,
       "happy": 6,
       "sleepy": 4,
-      "curious": 2,
-      "cool": 1,
+      "mischievous": 2,
+      "cool": 2,
       "legendary": 1,
       "cosmic": 1,
       "neutral": 5,
-      "mischievous": 1,
-      "laughing": 1,
+      "curious": 1,
+      "surprised": 2,
       "enlightened": 2,
-      "wise": 4,
-      "surprised": 1,
+      "wise": 3,
       "winking": 1
     },
     "accessory": {
@@ -68,26 +67,27 @@
       "monocle": 1
     },
     "pattern": {
-      "lightning": 2,
+      "flames": 2,
       "solid": 4,
-      "flames": 1,
-      "diamonds": 5,
+      "diamonds": 4,
       "spots": 5,
-      "stripes": 5,
+      "stripes": 6,
       "swirls": 5,
       "aurora": 2,
-      "gradient": 4,
-      "stars": 2
+      "gradient": 3,
+      "stars": 2,
+      "hearts": 1,
+      "lightning": 1
     },
     "background": {
       "green_grass": 6,
       "white": 6,
       "aurora": 3,
-      "forest": 2,
+      "blue_sky": 4,
       "city": 3,
       "sunset": 5,
       "beach": 3,
-      "blue_sky": 3,
+      "forest": 1,
       "volcano": 1,
       "space": 1,
       "heaven": 1,
@@ -95,12 +95,13 @@
     },
     "special": {
       "shadow": 6,
-      "glow": 4,
+      "glow": 3,
       "none": 16,
       "godlike": 1,
       "energy": 2,
       "sparkles": 2,
-      "aura": 4
+      "aura": 4,
+      "particles": 1
     }
   }
 }
