@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T00:53:28.757454+00:00",
+  "last_updated": "2026-04-30T00:53:10.682322+00:00",
   "total_monkeys": 35,
   "active_today": 13,
   "generations": {
@@ -32,17 +32,18 @@
       "genesis_gold": 1,
       "green": 1,
       "brown": 2,
-      "galaxy": 2,
+      "galaxy": 1,
       "holographic": 1,
       "golden": 2,
-      "blue": 2
+      "blue": 2,
+      "rainbow": 1
     },
     "face_expression": {
-      "excited": 5,
+      "cool": 3,
       "happy": 6,
+      "excited": 4,
       "sleepy": 4,
       "mischievous": 2,
-      "cool": 2,
       "legendary": 1,
       "cosmic": 1,
       "neutral": 5,
