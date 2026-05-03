@@ -82,7 +82,7 @@
 <path d="M147 160 Q162 150 177 160" stroke="#5D2E0C" stroke-width="3" fill="none"/>
 <path d="M223 160 Q238 150 253 160" stroke="#5D2E0C" stroke-width="3" fill="none"/>
 
-<circle cx="200" cy="200" r="135" fill="none" stroke="#FFD700" stroke-width="6" opacity="0.25"/>
+
 <g transform="translate(325, 15)">
             <rect width="65" height="22" rx="4" fill="#A0A0A0" opacity="0.9"/>
             <text x="32" y="15" font-size="8" fill="#FFF" text-anchor="middle" font-family="sans-serif" font-weight="bold">COMMON</text>
