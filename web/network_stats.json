@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-07T00:52:41.673458+00:00",
+  "last_updated": "2026-05-08T00:52:54.223206+00:00",
   "total_monkeys": 37,
-  "active_today": 12,
+  "active_today": 13,
   "generations": {
     "1": 15,
     "2": 22
   },
-  "avg_rarity": 24.95,
+  "avg_rarity": 25.0,
   "max_rarity": 50.0,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -35,15 +35,16 @@
       "silver": 3,
       "crystal": 1,
       "holographic": 1,
-      "blue": 2,
-      "rainbow": 1
+      "pink": 1,
+      "rainbow": 1,
+      "blue": 1
     },
     "face_expression": {
       "curious": 2,
-      "happy": 7,
+      "happy": 6,
       "cool": 3,
       "excited": 5,
-      "sleepy": 4,
+      "sleepy": 5,
       "legendary": 1,
       "cosmic": 1,
       "neutral": 5,
@@ -55,20 +56,20 @@
       "divine": 1
     },
     "accessory": {
-      "monocle": 5,
+      "monocle": 6,
       "jetpack": 2,
       "halo": 2,
       "sunglasses": 3,
       "bow": 4,
-      "simple_hat": 4,
       "headphones": 5,
+      "simple_hat": 3,
       "wings": 1,
       "none": 5,
       "bandana": 4,
       "laser_eyes": 2
     },
     "pattern": {
-      "swirls": 5,
+      "swirls": 6,
       "diamonds": 5,
       "cosmic_dust": 1,
       "solid": 5,
@@ -78,7 +79,7 @@
       "spots": 3,
       "stars": 3,
       "aurora": 2,
-      "hearts": 3
+      "hearts": 2
     },
     "background": {
       "white": 9,
