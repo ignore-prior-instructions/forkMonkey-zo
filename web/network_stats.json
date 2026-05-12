@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T00:56:41.076692+00:00",
+  "last_updated": "2026-05-12T00:51:49.845491+00:00",
   "total_monkeys": 37,
   "active_today": 13,
   "generations": {
@@ -10,8 +10,8 @@
   "max_rarity": 50.0,
   "min_rarity": 10.0,
   "rarest_trait": {
-    "trait": "face_expression",
-    "value": "divine",
+    "trait": "background",
+    "value": "aurora",
     "count": 1
   },
   "most_common_trait": {
@@ -42,16 +42,16 @@
     "face_expression": {
       "happy": 7,
       "cool": 3,
-      "excited": 5,
-      "sleepy": 5,
+      "excited": 6,
+      "sleepy": 4,
       "legendary": 1,
       "cosmic": 1,
       "neutral": 5,
-      "curious": 1,
+      "curious": 2,
       "mischievous": 1,
       "surprised": 2,
       "enlightened": 1,
-      "wise": 3,
+      "wise": 2,
       "winking": 1,
       "divine": 1
     },
@@ -80,15 +80,15 @@
       "spots": 3,
       "stars": 3,
       "quantum": 1,
-      "hearts": 2,
+      "hearts": 1,
+      "lightning": 1,
       "aurora": 1
     },
     "background": {
       "white": 11,
       "green_grass": 3,
-      "aurora": 2,
+      "mountains": 2,
       "blue_sky": 4,
-      "mountains": 1,
       "city": 2,
       "sunset": 5,
       "beach": 3,
@@ -96,16 +96,17 @@
       "space": 2,
       "volcano": 1,
       "multiverse": 1,
-      "underwater": 1
+      "underwater": 1,
+      "aurora": 1
     },
     "special": {
       "none": 17,
-      "shadow": 4,
-      "glow": 3,
+      "shadow": 5,
+      "glow": 4,
       "godlike": 1,
       "aura": 4,
-      "sparkles": 4,
-      "energy": 4
+      "energy": 4,
+      "sparkles": 2
     }
   }
 }
