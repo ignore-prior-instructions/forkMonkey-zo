@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-13T00:56:08.194953+00:00",
+  "last_updated": "2026-05-14T00:57:40.309570+00:00",
   "total_monkeys": 38,
   "active_today": 13,
   "generations": {
     "1": 16,
     "2": 22
   },
-  "avg_rarity": 25.04,
+  "avg_rarity": 25.0,
   "max_rarity": 50.0,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -21,22 +21,20 @@
   },
   "trait_distribution": {
     "body_color": {
-      "brown": 4,
-      "gray": 4,
+      "gray": 5,
       "purple": 2,
       "copper": 3,
       "tan": 6,
       "golden": 3,
       "beige": 3,
       "silver": 3,
+      "brown": 3,
       "bronze": 2,
       "prismatic": 1,
       "genesis_gold": 1,
-      "green": 1,
-      "crystal": 1,
+      "green": 2,
+      "rainbow": 2,
       "holographic": 1,
-      "pink": 1,
-      "rainbow": 1,
       "blue": 1
     },
     "face_expression": {
@@ -59,25 +57,26 @@
       "crown": 4,
       "monocle": 3,
       "jetpack": 2,
-      "halo": 2,
+      "halo": 1,
       "sunglasses": 4,
-      "bow": 4,
+      "bow": 5,
       "simple_hat": 3,
       "wings": 1,
-      "none": 5,
+      "none": 4,
       "bandana": 4,
-      "laser_eyes": 2
+      "laser_eyes": 2,
+      "wizard_hat": 1
     },
     "pattern": {
-      "gradient": 5,
-      "swirls": 6,
+      "spots": 5,
+      "swirls": 5,
       "diamonds": 5,
       "cosmic_dust": 1,
-      "solid": 5,
+      "solid": 4,
       "flames": 1,
-      "stripes": 4,
+      "stripes": 5,
+      "gradient": 4,
       "nebula": 1,
-      "spots": 3,
       "stars": 3,
       "quantum": 1,
       "hearts": 1,
@@ -85,13 +84,13 @@
       "aurora": 1
     },
     "background": {
-      "mountains": 3,
+      "mountains": 1,
       "white": 11,
       "green_grass": 3,
+      "beach": 4,
       "blue_sky": 4,
-      "city": 2,
+      "city": 3,
       "sunset": 5,
-      "beach": 3,
       "forest": 1,
       "space": 2,
       "volcano": 1,
@@ -104,8 +103,8 @@
       "shadow": 5,
       "glow": 5,
       "godlike": 1,
-      "aura": 4,
-      "energy": 4,
+      "aura": 5,
+      "energy": 3,
       "sparkles": 1
     }
   }
