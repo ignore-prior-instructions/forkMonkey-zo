@@ -2651,6 +2651,23 @@
       },
       "story": "Your monkey evolved! Changes: accessory: bow \u2192 bandana",
       "svg_filename": "2026-05-16_00-39_monkey.svg"
+    },
+    {
+      "timestamp": "2026-05-17T00:42:37.747129",
+      "dna_hash": "05a8ee33b67c27e6",
+      "generation": 2,
+      "mutation_count": 70,
+      "rarity_score": 40.0,
+      "traits": {
+        "body_color": "brown",
+        "face_expression": "legendary",
+        "accessory": "bandana",
+        "pattern": "void",
+        "background": "white",
+        "special": "none"
+      },
+      "story": "Your monkey evolved! Changes: pattern: quantum \u2192 void",
+      "svg_filename": "2026-05-17_00-42_monkey.svg"
     }
   ]
 }
