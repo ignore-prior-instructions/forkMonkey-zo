@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T01:01:10.041490+00:00",
+  "last_updated": "2026-05-22T00:59:12.333680+00:00",
   "total_monkeys": 39,
   "active_today": 13,
   "generations": {
@@ -58,11 +58,11 @@
       "diamond_chain": 1,
       "jetpack": 3,
       "crown": 2,
-      "monocle": 3,
+      "monocle": 4,
       "halo": 1,
-      "sunglasses": 5,
+      "sunglasses": 3,
       "bow": 2,
-      "headphones": 4,
+      "headphones": 5,
       "none": 5,
       "simple_hat": 3,
       "wings": 1,
@@ -74,7 +74,7 @@
       "spots": 4,
       "solid": 5,
       "swirls": 6,
-      "diamonds": 7,
+      "diamonds": 6,
       "cosmic_dust": 1,
       "flames": 1,
       "stripes": 5,
@@ -83,30 +83,30 @@
       "stars": 3,
       "void": 1,
       "hearts": 1,
-      "aurora": 1
+      "aurora": 1,
+      "lightning": 1
     },
     "background": {
-      "blue_sky": 5,
+      "sunset": 7,
+      "blue_sky": 4,
       "white": 11,
       "green_grass": 4,
       "beach": 4,
-      "city": 2,
-      "sunset": 6,
+      "city": 3,
       "forest": 1,
       "space": 2,
       "volcano": 1,
       "black_hole": 1,
-      "underwater": 1,
-      "aurora": 1
+      "underwater": 1
     },
     "special": {
       "none": 19,
-      "shadow": 4,
+      "shadow": 5,
       "glow": 3,
       "godlike": 1,
       "aura": 2,
       "energy": 4,
-      "sparkles": 3,
+      "sparkles": 2,
       "particles": 2,
       "mythical": 1
     }
