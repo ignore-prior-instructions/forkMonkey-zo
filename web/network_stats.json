@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-22T00:59:12.333680+00:00",
+  "last_updated": "2026-05-23T00:57:00.872580+00:00",
   "total_monkeys": 39,
   "active_today": 13,
   "generations": {
     "1": 16,
     "2": 23
   },
-  "avg_rarity": 26.45,
+  "avg_rarity": 26.41,
   "max_rarity": 51.67,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -21,45 +21,46 @@
   },
   "trait_distribution": {
     "body_color": {
-      "crystal": 2,
+      "rainbow": 2,
       "purple": 3,
       "gray": 6,
       "copper": 3,
       "tan": 5,
       "golden": 3,
-      "beige": 3,
+      "beige": 2,
       "brown": 3,
-      "bronze": 2,
+      "bronze": 3,
       "prismatic": 1,
       "genesis_gold": 1,
       "green": 2,
       "silver": 2,
+      "crystal": 1,
       "holographic": 1,
-      "rainbow": 1,
       "blue": 1
     },
     "face_expression": {
-      "curious": 3,
+      "curious": 4,
       "mischievous": 2,
       "happy": 8,
-      "cool": 1,
+      "cool": 2,
       "excited": 6,
       "laughing": 1,
-      "wise": 3,
-      "legendary": 3,
+      "legendary": 2,
       "cosmic": 1,
       "neutral": 4,
-      "sleepy": 4,
+      "sleepy": 3,
+      "divine": 1,
       "enlightened": 1,
       "surprised": 1,
+      "wise": 2,
       "winking": 1
     },
     "accessory": {
       "diamond_chain": 1,
       "jetpack": 3,
       "crown": 2,
-      "monocle": 4,
-      "halo": 1,
+      "monocle": 3,
+      "halo": 2,
       "sunglasses": 3,
       "bow": 2,
       "headphones": 5,
@@ -83,8 +84,7 @@
       "stars": 3,
       "void": 1,
       "hearts": 1,
-      "aurora": 1,
-      "lightning": 1
+      "lightning": 2
     },
     "background": {
       "sunset": 7,
