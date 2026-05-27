@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-26T00:57:55.993864+00:00",
+  "last_updated": "2026-05-27T01:00:37.221535+00:00",
   "total_monkeys": 39,
   "active_today": 13,
   "generations": {
     "1": 16,
     "2": 23
   },
-  "avg_rarity": 26.67,
+  "avg_rarity": 26.79,
   "max_rarity": 51.67,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -45,11 +45,11 @@
       "cool": 2,
       "excited": 5,
       "laughing": 1,
-      "legendary": 3,
+      "legendary": 2,
       "cosmic": 1,
       "neutral": 4,
       "sleepy": 3,
-      "enlightened": 1,
+      "enlightened": 2,
       "surprised": 1,
       "wise": 2,
       "winking": 1
@@ -58,11 +58,11 @@
       "diamond_chain": 1,
       "jetpack": 3,
       "crown": 2,
-      "monocle": 3,
+      "monocle": 4,
       "halo": 2,
       "sunglasses": 3,
       "bow": 2,
-      "headphones": 5,
+      "headphones": 4,
       "none": 5,
       "simple_hat": 3,
       "wings": 1,
@@ -73,10 +73,11 @@
     "pattern": {
       "spots": 4,
       "solid": 6,
-      "swirls": 7,
+      "swirls": 6,
       "diamonds": 6,
       "cosmic_dust": 2,
       "flames": 1,
+      "nebula": 1,
       "gradient": 3,
       "stripes": 4,
       "stars": 2,
@@ -85,12 +86,12 @@
       "lightning": 2
     },
     "background": {
-      "sunset": 6,
-      "blue_sky": 5,
+      "blue_sky": 6,
       "white": 10,
       "green_grass": 3,
       "beach": 5,
       "city": 3,
+      "sunset": 5,
       "forest": 1,
       "space": 3,
       "volcano": 1,
@@ -102,10 +103,10 @@
       "shadow": 6,
       "glow": 3,
       "godlike": 1,
-      "aura": 2,
+      "particles": 3,
       "energy": 3,
       "sparkles": 2,
-      "particles": 2,
+      "aura": 1,
       "mythical": 1
     }
   }
