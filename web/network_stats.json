@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-18T01:06:49.286777+00:00",
+  "last_updated": "2026-06-19T01:13:40.285641+00:00",
   "total_monkeys": 39,
-  "active_today": 13,
+  "active_today": 12,
   "generations": {
     "1": 16,
     "2": 23
   },
-  "avg_rarity": 26.97,
+  "avg_rarity": 27.01,
   "max_rarity": 50.0,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -17,7 +17,7 @@
   "most_common_trait": {
     "trait": "special",
     "value": "none",
-    "count": 20
+    "count": 19
   },
   "trait_distribution": {
     "body_color": {
@@ -70,8 +70,8 @@
       "wizard_hat": 1
     },
     "pattern": {
-      "spots": 7,
-      "solid": 5,
+      "spots": 6,
+      "solid": 6,
       "swirls": 5,
       "diamonds": 5,
       "cosmic_dust": 1,
@@ -101,9 +101,9 @@
       "city": 2
     },
     "special": {
-      "none": 20,
+      "none": 19,
       "shadow": 6,
-      "glow": 5,
+      "glow": 6,
       "godlike": 1,
       "energy": 2,
       "sparkles": 1,
