@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-26T01:03:27.145983+00:00",
+  "last_updated": "2026-06-27T00:59:22.224295+00:00",
   "total_monkeys": 40,
   "active_today": 13,
   "generations": {
     "1": 17,
     "2": 23
   },
-  "avg_rarity": 26.67,
+  "avg_rarity": 26.62,
   "max_rarity": 50.0,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -41,7 +41,7 @@
     "face_expression": {
       "mischievous": 4,
       "curious": 2,
-      "happy": 6,
+      "happy": 7,
       "cool": 2,
       "excited": 5,
       "laughing": 1,
@@ -50,7 +50,7 @@
       "neutral": 5,
       "sleepy": 5,
       "enlightened": 1,
-      "wise": 3,
+      "wise": 2,
       "surprised": 1,
       "winking": 1
     },
@@ -62,10 +62,10 @@
       "halo": 1,
       "sunglasses": 2,
       "bow": 4,
-      "none": 5,
+      "none": 6,
       "simple_hat": 4,
       "wings": 1,
-      "bandana": 4,
+      "bandana": 3,
       "laser_eyes": 2,
       "headphones": 3,
       "wizard_hat": 1,
@@ -88,9 +88,9 @@
       "aurora": 1
     },
     "background": {
-      "green_grass": 6,
+      "green_grass": 7,
       "sunset": 6,
-      "blue_sky": 4,
+      "blue_sky": 3,
       "white": 8,
       "city": 3,
       "aurora": 1,
@@ -105,10 +105,10 @@
     },
     "special": {
       "none": 21,
-      "shadow": 7,
+      "shadow": 6,
       "glow": 4,
       "godlike": 1,
-      "sparkles": 2,
+      "sparkles": 3,
       "energy": 3,
       "aura": 1,
       "mythical": 1
