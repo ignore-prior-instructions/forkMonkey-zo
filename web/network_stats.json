@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-28T01:03:37.820869+00:00",
-  "total_monkeys": 40,
-  "active_today": 12,
+  "last_updated": "2026-06-29T01:04:36.218564+00:00",
+  "total_monkeys": 41,
+  "active_today": 14,
   "generations": {
-    "1": 17,
+    "1": 18,
     "2": 23
   },
-  "avg_rarity": 26.46,
+  "avg_rarity": 26.18,
   "max_rarity": 50.0,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -17,16 +17,16 @@
   "most_common_trait": {
     "trait": "special",
     "value": "none",
-    "count": 21
+    "count": 22
   },
   "trait_distribution": {
     "body_color": {
+      "beige": 4,
       "tan": 7,
       "gray": 6,
       "purple": 3,
       "copper": 4,
       "golden": 2,
-      "beige": 3,
       "bronze": 2,
       "prismatic": 1,
       "genesis_gold": 1,
@@ -35,18 +35,18 @@
       "pink": 1,
       "brown": 1,
       "rainbow": 1,
-      "holographic": 2,
-      "blue": 1
+      "holographic": 1,
+      "blue": 2
     },
     "face_expression": {
+      "cosmic": 2,
       "mischievous": 3,
-      "curious": 2,
-      "happy": 7,
+      "curious": 3,
+      "happy": 6,
       "cool": 2,
       "excited": 6,
       "laughing": 1,
       "legendary": 3,
-      "cosmic": 1,
       "neutral": 5,
       "sleepy": 5,
       "enlightened": 1,
@@ -55,24 +55,24 @@
       "winking": 1
     },
     "accessory": {
+      "bandana": 4,
       "crown": 3,
       "horns": 1,
       "jetpack": 5,
-      "monocle": 4,
+      "monocle": 3,
       "halo": 1,
       "sunglasses": 2,
       "bow": 4,
       "none": 6,
       "simple_hat": 5,
       "wings": 1,
-      "bandana": 3,
       "laser_eyes": 2,
-      "headphones": 2,
+      "headphones": 3,
       "wizard_hat": 1
     },
     "pattern": {
-      "gradient": 6,
-      "spots": 4,
+      "spots": 5,
+      "gradient": 7,
       "solid": 5,
       "swirls": 5,
       "diamonds": 5,
@@ -83,14 +83,13 @@
       "stripes": 4,
       "stars": 3,
       "quantum": 1,
-      "hearts": 1,
       "aurora": 1
     },
     "background": {
+      "white": 9,
       "green_grass": 6,
       "sunset": 6,
       "blue_sky": 4,
-      "white": 8,
       "city": 3,
       "aurora": 1,
       "heaven": 2,
@@ -103,7 +102,7 @@
       "black_hole": 1
     },
     "special": {
-      "none": 21,
+      "none": 22,
       "shadow": 6,
       "glow": 4,
       "godlike": 1,
