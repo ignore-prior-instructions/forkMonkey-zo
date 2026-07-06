@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-05T00:51:51.423475+00:00",
+  "last_updated": "2026-07-06T00:51:43.761243+00:00",
   "total_monkeys": 41,
   "active_today": 13,
   "generations": {
     "1": 18,
     "2": 23
   },
-  "avg_rarity": 26.1,
+  "avg_rarity": 25.98,
   "max_rarity": 50.0,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -21,9 +21,9 @@
   },
   "trait_distribution": {
     "body_color": {
-      "beige": 4,
+      "beige": 3,
       "tan": 7,
-      "gray": 5,
+      "gray": 6,
       "purple": 4,
       "copper": 5,
       "golden": 3,
@@ -37,30 +37,30 @@
       "blue": 1
     },
     "face_expression": {
-      "cosmic": 2,
+      "enlightened": 2,
       "mischievous": 3,
-      "curious": 2,
+      "curious": 3,
       "happy": 6,
       "cool": 3,
-      "excited": 4,
-      "surprised": 2,
+      "excited": 5,
+      "zen": 1,
       "winking": 2,
-      "laughing": 1,
       "legendary": 3,
+      "cosmic": 1,
       "neutral": 5,
-      "sleepy": 5,
-      "enlightened": 1,
-      "wise": 2
+      "sleepy": 4,
+      "wise": 2,
+      "surprised": 1
     },
     "accessory": {
-      "bandana": 4,
+      "bandana": 6,
       "crown": 3,
       "horns": 2,
       "jetpack": 4,
       "monocle": 4,
       "halo": 1,
       "sunglasses": 2,
-      "bow": 6,
+      "bow": 4,
       "simple_hat": 4,
       "wings": 1,
       "none": 5,
@@ -69,7 +69,7 @@
       "wizard_hat": 1
     },
     "pattern": {
-      "spots": 5,
+      "spots": 6,
       "gradient": 6,
       "solid": 5,
       "swirls": 6,
@@ -77,10 +77,10 @@
       "cosmic_dust": 1,
       "flames": 2,
       "fractals": 1,
-      "stripes": 4,
       "nebula": 1,
+      "stripes": 3,
       "stars": 2,
-      "quantum": 1,
+      "void": 1,
       "hearts": 1,
       "lightning": 1
     },
