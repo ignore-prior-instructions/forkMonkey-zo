@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-07-13T00:45:55.353524+00:00",
+  "last_updated": "2026-07-14T00:39:05.846530+00:00",
   "total_monkeys": 41,
-  "active_today": 13,
+  "active_today": 12,
   "generations": {
     "1": 18,
     "2": 23
   },
-  "avg_rarity": 26.54,
+  "avg_rarity": 26.75,
   "max_rarity": 50.0,
   "min_rarity": 10.0,
   "rarest_trait": {
-    "trait": "pattern",
-    "value": "lightning",
+    "trait": "special",
+    "value": "transcendent",
     "count": 1
   },
   "most_common_trait": {
@@ -44,8 +44,7 @@
       "happy": 6,
       "cool": 1,
       "excited": 4,
-      "zen": 1,
-      "enlightened": 3,
+      "enlightened": 4,
       "winking": 3,
       "legendary": 2,
       "cosmic": 1,
@@ -62,10 +61,10 @@
       "monocle": 4,
       "halo": 2,
       "sunglasses": 2,
-      "bow": 4,
+      "bow": 5,
       "none": 7,
       "golden_crown": 1,
-      "bandana": 5,
+      "bandana": 4,
       "simple_hat": 3,
       "wings": 1,
       "laser_eyes": 2,
@@ -89,9 +88,9 @@
     },
     "background": {
       "white": 9,
-      "green_grass": 6,
+      "green_grass": 5,
       "sunset": 7,
-      "blue_sky": 3,
+      "blue_sky": 4,
       "city": 2,
       "heaven": 2,
       "underwater": 3,
@@ -106,10 +105,11 @@
       "none": 24,
       "shadow": 6,
       "glow": 3,
-      "godlike": 2,
+      "godlike": 1,
       "sparkles": 2,
       "energy": 3,
-      "aura": 1
+      "aura": 1,
+      "transcendent": 1
     }
   }
 }
