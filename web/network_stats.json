@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-02T00:45:12.400820+00:00",
+  "last_updated": "2026-08-03T00:44:43.016983+00:00",
   "total_monkeys": 41,
   "active_today": 12,
   "generations": {
     "1": 18,
     "2": 23
   },
-  "avg_rarity": 26.83,
+  "avg_rarity": 26.63,
   "max_rarity": 50.0,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -41,7 +41,7 @@
       "divine": 2,
       "mischievous": 3,
       "curious": 3,
-      "happy": 6,
+      "happy": 7,
       "cool": 2,
       "excited": 4,
       "surprised": 2,
@@ -49,7 +49,7 @@
       "legendary": 1,
       "cosmic": 2,
       "neutral": 4,
-      "sleepy": 4,
+      "sleepy": 3,
       "wise": 3,
       "enlightened": 2,
       "winking": 1
@@ -96,8 +96,7 @@
       "forest": 1,
       "mountains": 1,
       "volcano": 2,
-      "space": 1,
-      "black_hole": 1,
+      "space": 2,
       "dimension_rift": 1,
       "underwater": 1
     },
