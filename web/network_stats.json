@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-08-08T01:47:38.945598+00:00",
+  "last_updated": "2026-08-09T01:54:37.793339+00:00",
   "total_monkeys": 41,
-  "active_today": 12,
+  "active_today": 10,
   "generations": {
     "1": 18,
     "2": 23
   },
-  "avg_rarity": 26.14,
-  "max_rarity": 50.0,
+  "avg_rarity": 26.46,
+  "max_rarity": 53.33,
   "min_rarity": 10.0,
   "rarest_trait": {
     "trait": "special",
@@ -35,10 +35,11 @@
       "rainbow": 1,
       "brown": 2,
       "holographic": 2,
-      "blue": 2
+      "pink": 1,
+      "blue": 1
     },
     "face_expression": {
-      "divine": 2,
+      "divine": 3,
       "mischievous": 4,
       "curious": 3,
       "happy": 7,
@@ -51,7 +52,6 @@
       "cosmic": 2,
       "neutral": 5,
       "sleepy": 3,
-      "zen": 1,
       "enlightened": 1,
       "surprised": 1
     },
@@ -64,25 +64,25 @@
       "halo": 1,
       "sunglasses": 2,
       "bow": 4,
-      "bandana": 6,
+      "bandana": 7,
       "laser_eyes": 4,
-      "simple_hat": 5,
+      "simple_hat": 4,
       "wings": 1,
       "none": 5,
       "wizard_hat": 1
     },
     "pattern": {
-      "spots": 7,
+      "spots": 8,
       "gradient": 5,
-      "solid": 8,
+      "solid": 7,
       "swirls": 5,
       "diamonds": 4,
       "cosmic_dust": 1,
       "flames": 3,
       "stripes": 3,
-      "stars": 3,
+      "stars": 2,
       "void": 1,
-      "lightning": 1
+      "lightning": 2
     },
     "background": {
       "white": 9,
