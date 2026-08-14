@@ -1,8 +1,8 @@
 {
   "generation": 2,
   "parent_id": "dba364f6e0c2ae67",
-  "dna_hash": "e75baf5a6b2ce80d",
-  "mutation_count": 109,
+  "dna_hash": "923d79022d264874",
+  "mutation_count": 110,
   "birth_timestamp": 389732,
   "traits": {
     "body_color": {
@@ -11,9 +11,9 @@
       "gene_sequence": "2066cd78"
     },
     "face_expression": {
-      "value": "enlightened",
+      "value": "cosmic",
       "rarity": "legendary",
-      "gene_sequence": "3fc73d5b"
+      "gene_sequence": "5ec4987e"
     },
     "accessory": {
       "value": "monocle",
