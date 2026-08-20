@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-19T01:22:07.730818+00:00",
+  "last_updated": "2026-08-20T01:21:25.388433+00:00",
   "total_monkeys": 41,
-  "active_today": 12,
+  "active_today": 11,
   "generations": {
     "1": 18,
     "2": 23
@@ -46,8 +46,8 @@
       "happy": 9,
       "cool": 1,
       "excited": 4,
-      "winking": 3,
-      "laughing": 1,
+      "winking": 2,
+      "laughing": 2,
       "legendary": 2,
       "cosmic": 2,
       "neutral": 4,
@@ -93,10 +93,10 @@
       "sunset": 6,
       "blue_sky": 3,
       "mountains": 1,
-      "forest": 3,
+      "forest": 2,
       "black_hole": 1,
       "dimension_rift": 2,
-      "beach": 4,
+      "beach": 5,
       "multiverse": 1,
       "city": 2,
       "volcano": 2,
