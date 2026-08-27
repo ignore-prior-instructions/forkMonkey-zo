@@ -1,8 +1,8 @@
 {
   "generation": 2,
   "parent_id": "dba364f6e0c2ae67",
-  "dna_hash": "9170b697d0c286bb",
-  "mutation_count": 115,
+  "dna_hash": "b876f3d7b003ecd1",
+  "mutation_count": 116,
   "birth_timestamp": 389732,
   "traits": {
     "body_color": {
@@ -11,9 +11,9 @@
       "gene_sequence": "af0c9603"
     },
     "face_expression": {
-      "value": "cosmic",
+      "value": "enlightened",
       "rarity": "legendary",
-      "gene_sequence": "5ec4987e"
+      "gene_sequence": "3fc73d5b"
     },
     "accessory": {
       "value": "headphones",
